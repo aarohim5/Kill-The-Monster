@@ -1,5 +1,5 @@
 const Engine = Matter.Engine;
-const World = Matter.world;
+const World = Matter.World;
 const Bodies = Matter.Bodies;
 const Body = Matter.Body;
 const Constraint = Matter.Constraint
