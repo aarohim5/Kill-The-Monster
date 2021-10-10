@@ -44,8 +44,8 @@ function draw() {
   background(backgroundImage);
   Engine.update(engine);
 
-  superhero.dispaly();
-  ground.dispaly();
+  superhero.display();
+  ground.display();
   block1.display();
   block2.display();
   block3.display();
